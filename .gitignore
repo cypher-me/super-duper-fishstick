@@ -1,2 +1,8 @@
 node_modules/
-package
+test.js
+test*
+index.js
+# .env
+.env.template
+.vscode/
+reactFrontend/
