@@ -6,3 +6,4 @@ index.js
 .env.template
 .vscode/
 reactFrontend/
+.env 
